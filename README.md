@@ -1,2 +1,2 @@
 # Odin
-Hazel Engine
+Odin Engine
